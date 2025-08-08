@@ -46,8 +46,7 @@ streamlit run app.py
 
 🌐 Live Demo
 Try the 👉 Free Demo Version
-(Optional: if deployed on HuggingFace, Streamlit Cloud, or any mock version)
-
+(https://ai-quote-generator-4alfs6ygvfuhppdd9rh3ea.streamlit.app/)
 🛠️ Tech Stack
 Python
 
@@ -70,3 +69,4 @@ This project is licensed under the MIT License – feel free to use and modify f
 
 🙋‍♀️ Author
 Made with ❤️ by Anjali Upmanyu
+
